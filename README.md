@@ -12,7 +12,6 @@ https://example.com/a/very/long/path?with=params  »»  snip.app/x7f2a9
 - **Accounts** — sign up to unlock custom slugs and a dashboard of your links
 - **Custom slugs** — pick your own short code (`snip.app/my-launch`)
 - **Click tracking** — see how many times each link has been opened
-- **Link expiry** — set links to auto-expire after 1, 7, or 30 days
 - **Secure by default** — rate limiting, input validation, and short-lived access tokens with silent refresh
 
 ## Tech stack
