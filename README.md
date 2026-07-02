@@ -61,6 +61,3 @@ Runs on `http://localhost:5173`.
 3. Visiting `snip.app/<code>` looks up the original URL and redirects there, incrementing the click counter — unless the link has expired.
 4. Logged-in users can view and manage all their links from the dashboard.
 
-## License
-
-MIT
